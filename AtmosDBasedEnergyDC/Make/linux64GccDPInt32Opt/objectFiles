@@ -1,0 +1,11 @@
+OBJECTS = \
+$(OBJECTS_DIR)/roeFlux.o\
+$(OBJECTS_DIR)/rusanovFlux.o\
+$(OBJECTS_DIR)/betaFlux.o\
+$(OBJECTS_DIR)/hllcFlux.o\
+$(OBJECTS_DIR)/hllcALEFlux.o\
+$(OBJECTS_DIR)/hllcAusmFlux.o\
+$(OBJECTS_DIR)/AusmUPFlux.o\
+$(OBJECTS_DIR)/basicNumericFlux.o\
+$(OBJECTS_DIR)/newBasicNumericFlux.o\
+$(OBJECTS_DIR)/numericFluxes.o

@@ -1,0 +1,13 @@
+dbnsFlux/roeFlux/roeFlux.C
+dbnsFlux/rusanovFlux/rusanovFlux.C
+dbnsFlux/betaFlux/betaFlux.C
+dbnsFlux/hllcFlux/hllcFlux.C
+dbnsFlux/hllcALEFlux/hllcALEFlux.C
+dbnsFlux/hllcAusmFlux/hllcAusmFlux.C
+dbnsFlux/AusmUPFlux/AusmUPFlux.C
+
+basicNumericFlux/basicNumericFlux.C
+basicNumericFlux/newBasicNumericFlux.C
+numericFlux/numericFluxes.C
+
+LIB = $(FOAM_USER_LIBBIN)/libAtmosDBasedEnergyRTB
